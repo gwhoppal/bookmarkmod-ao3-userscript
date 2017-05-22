@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name			Bookmark Mod - ArchiveofOurOwn.org
-// @version			1.4.21
+// @version			1.5
 // @namespace		http://toswy.com/
 // @description		Changes the page title and description to make for easy bookmarking
 // @include			*archiveofourown.org/works/*
-// @downloadURL		https://dl.dropboxusercontent.com/u/644563/bookmarkmod-ao3.user.js
-// @updateURL		https://dl.dropboxusercontent.com/u/644563/bookmarkmod-ao3.user.js
+// @downloadURL		https://github.com/gwhoppal/bookmarkmod-ao3-userscript/raw/master/bookmarkmod-ao3.user.js
+// @updateURL		https://github.com/gwhoppal/bookmarkmod-ao3-userscript/raw/master/bookmarkmod-ao3.user.js
 // ==/UserScript==
 
 /*! jQuery v2.1.4 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */
